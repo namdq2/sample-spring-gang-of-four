@@ -28,3 +28,15 @@ The GoF Design Patterns are broken into three categories: Creational Patterns fo
 9. *Strategy*. Allows one of a family of algorithms to be selected on-the-fly at run-time.
 10. *Template Method*. Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.
 11. *Visitor*. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
+
+## Abstract Factory
+### Problem
+![Image of Problem of Abstract Factory pattern](images/factory-method-problem.png)
+### Solution
+![Image of Solution 1 of Abstract Factory pattern](images/factory-method-solution1.png)
+
+![Image of Solution 2 of Abstract Factory pattern](images/factory-method-solution2.png)
+
+![Image of Solution 3 of Abstract Factory pattern](images/factory-method-solution3.png)
+### Structure
+![Image of Structure of Abstract Factory pattern](images/factory-method-structure.png)

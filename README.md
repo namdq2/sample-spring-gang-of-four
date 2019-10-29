@@ -29,10 +29,15 @@ The GoF Design Patterns are broken into three categories: Creational Patterns fo
 22. *Template Method*. Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.
 23. *Visitor*. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
 
-## Factory method
-
+## 1. Factory Method
 ### Guide
 https://refactoring.guru/design-patterns/factory-method
-
 ### Structure
-![Image of Structure of Abstract Factory pattern](images/factory-method-structure.png)
+![Image of Structure of Factory Method pattern](images/factory-method-structure.png)
+
+## 2. Abstract Factory
+### Guide
+https://refactoring.guru/design-patterns/abstract-factory 
+### Structure
+![Image of Structure of Abstract Factory pattern](images/abstract-factory-structure.png)
+

@@ -41,3 +41,10 @@ https://refactoring.guru/design-patterns/abstract-factory
 ### Structure
 ![Image of Structure of Abstract Factory pattern](images/abstract-factory-structure.png)
 
+## 3. Builder
+### Guide
+https://refactoring.guru/design-patterns/builder
+### Structure
+![Image of Structure of Builder pattern](images/builder-structure.png)
+
+ 

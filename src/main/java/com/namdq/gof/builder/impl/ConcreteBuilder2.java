@@ -26,13 +26,13 @@ public class ConcreteBuilder2 implements Builder {
 
     @Override
     public void buildStepB() {
-        this.product.setProperty1("stepB");
+        this.product.setProperty2("stepB");
         log.info("ConcreteBuilder2: stepB complete...");
     }
 
     @Override
     public void buildStepZ() {
-        this.product.setProperty1("stepZ");
+        this.product.setProperty3("stepZ");
         log.info("ConcreteBuilder2: stepZ complete...");
     }
 
